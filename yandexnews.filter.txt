@@ -1,0 +1,23 @@
+yandex.ru##div.news__tabs>h1:has(a[data-stat-link="news.tab.link.news"])
+
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="Ведомости"])
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="Lenta.ru"])
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="Коммерсантъ"])
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="Известия"])
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="RT на русском"])
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="РИА Новости"])
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="РБК"])
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="Газета.Ru"])
+yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="Интерфакс"])
+
+
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="Ведомости"])
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="Lenta.ru"])
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="Коммерсантъ"])
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="Известия"])
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="RT на русском"])
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="РИА Новости"])
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="РБК"])
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="Газета.Ru"])
+yandex.ru##div.news__panel>ol.news__list>li.list__item:has(object[title="Интерфакс"])
+
