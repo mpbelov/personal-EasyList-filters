@@ -1,3 +1,5 @@
+yandex.ru##div.services-new__list>a.home-link[data-id="news"]
+
 yandex.ru##div.news__tabs>h1:has(a[data-stat-link="news.tab.link.news"])
 
 yandex.ru###news_panel_news>ol.news__list>li.list__item:has(object[title="Ведомости"])
